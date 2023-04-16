@@ -1,0 +1,649 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(498,5): warning MSB8004: Das Intermediate-Verzeichnis endet nicht mit einem nachstehenden Schrägstrich. Der Schrägstrich wird in dieser Buildinstanz hinzugefügt, da er für die ordnungsgemäße Auswertung des Intermediate-Verzeichnisses erforderlich ist.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(499,5): warning MSB8004: Das Output-Verzeichnis endet nicht mit einem nachstehenden Schrägstrich. Der Schrägstrich wird in dieser Buildinstanz hinzugefügt, da er für die ordnungsgemäße Auswertung des Output-Verzeichnisses erforderlich ist.
+  External.cpp
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\Cheat.h(127,32): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\Cheat.h(127,53): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\Cheat.h(127,74): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\Cheat.h(163,22): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\Cheat.h(164,22): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\Cheat.h(165,22): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\Cheat.h(167,12): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\Cheat.h(168,12): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\Cheat.h(169,12): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\Cheat.h(171,13): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\Cheat.h(172,13): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\Cheat.h(173,13): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\Cheat.h(174,32): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\Cheat.h(175,32): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\Cheat.h(176,32): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\Cheat.h(178,13): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\Cheat.h(179,13): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\Cheat.h(180,23): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\Cheat.h(181,23): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\Cheat.h(183,13): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\Cheat.h(184,13): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\Cheat.h(185,23): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\Cheat.h(186,23): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\Cheat.h(188,13): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\Cheat.h(189,13): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\Cheat.h(190,23): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\Cheat.h(191,23): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\Cheat.h(232,74): warning C4267: "Argument": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(66,1): warning C4005: "STATUS_WAIT_0": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2549): message : Siehe vorherige Definition von "STATUS_WAIT_0"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(223,1): warning C4005: "STATUS_ABANDONED_WAIT_0": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2550): message : Siehe vorherige Definition von "STATUS_ABANDONED_WAIT_0"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(246,1): warning C4005: "STATUS_USER_APC": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2551): message : Siehe vorherige Definition von "STATUS_USER_APC"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(282,1): warning C4005: "STATUS_TIMEOUT": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2552): message : Siehe vorherige Definition von "STATUS_TIMEOUT"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(291,1): warning C4005: "STATUS_PENDING": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2553): message : Siehe vorherige Definition von "STATUS_PENDING"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(738,1): warning C4005: "DBG_EXCEPTION_HANDLED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2554): message : Siehe vorherige Definition von "DBG_EXCEPTION_HANDLED"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(747,1): warning C4005: "DBG_CONTINUE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2555): message : Siehe vorherige Definition von "DBG_CONTINUE"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(822,1): warning C4005: "STATUS_SEGMENT_NOTIFICATION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2556): message : Siehe vorherige Definition von "STATUS_SEGMENT_NOTIFICATION"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(985,1): warning C4005: "STATUS_FATAL_APP_EXIT": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2557): message : Siehe vorherige Definition von "STATUS_FATAL_APP_EXIT"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1323,1): warning C4005: "DBG_REPLY_LATER": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2558): message : Siehe vorherige Definition von "DBG_REPLY_LATER"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1341,1): warning C4005: "DBG_TERMINATE_THREAD": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2559): message : Siehe vorherige Definition von "DBG_TERMINATE_THREAD"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1350,1): warning C4005: "DBG_TERMINATE_PROCESS": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2560): message : Siehe vorherige Definition von "DBG_TERMINATE_PROCESS"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1359,1): warning C4005: "DBG_CONTROL_C": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2561): message : Siehe vorherige Definition von "DBG_CONTROL_C"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1368,1): warning C4005: "DBG_PRINTEXCEPTION_C": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2562): message : Siehe vorherige Definition von "DBG_PRINTEXCEPTION_C"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1377,1): warning C4005: "DBG_RIPEXCEPTION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2563): message : Siehe vorherige Definition von "DBG_RIPEXCEPTION"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1386,1): warning C4005: "DBG_CONTROL_BREAK": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2564): message : Siehe vorherige Definition von "DBG_CONTROL_BREAK"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1395,1): warning C4005: "DBG_COMMAND_EXCEPTION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2565): message : Siehe vorherige Definition von "DBG_COMMAND_EXCEPTION"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1404,1): warning C4005: "DBG_PRINTEXCEPTION_WIDE_C": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2566): message : Siehe vorherige Definition von "DBG_PRINTEXCEPTION_WIDE_C"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1436,1): warning C4005: "STATUS_GUARD_PAGE_VIOLATION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2567): message : Siehe vorherige Definition von "STATUS_GUARD_PAGE_VIOLATION"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1447,1): warning C4005: "STATUS_DATATYPE_MISALIGNMENT": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2568): message : Siehe vorherige Definition von "STATUS_DATATYPE_MISALIGNMENT"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1458,1): warning C4005: "STATUS_BREAKPOINT": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2569): message : Siehe vorherige Definition von "STATUS_BREAKPOINT"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1469,1): warning C4005: "STATUS_SINGLE_STEP": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2570): message : Siehe vorherige Definition von "STATUS_SINGLE_STEP"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1772,1): warning C4005: "STATUS_LONGJUMP": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2571): message : Siehe vorherige Definition von "STATUS_LONGJUMP"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1799,1): warning C4005: "STATUS_UNWIND_CONSOLIDATE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2572): message : Siehe vorherige Definition von "STATUS_UNWIND_CONSOLIDATE"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1914,1): warning C4005: "DBG_EXCEPTION_NOT_HANDLED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2573): message : Siehe vorherige Definition von "DBG_EXCEPTION_NOT_HANDLED"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(2060,1): warning C4005: "STATUS_ACCESS_VIOLATION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2574): message : Siehe vorherige Definition von "STATUS_ACCESS_VIOLATION"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(2069,1): warning C4005: "STATUS_IN_PAGE_ERROR": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2575): message : Siehe vorherige Definition von "STATUS_IN_PAGE_ERROR"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(2087,1): warning C4005: "STATUS_INVALID_HANDLE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2576): message : Siehe vorherige Definition von "STATUS_INVALID_HANDLE"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(2132,1): warning C4005: "STATUS_INVALID_PARAMETER": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2577): message : Siehe vorherige Definition von "STATUS_INVALID_PARAMETER"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(2232,1): warning C4005: "STATUS_NO_MEMORY": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2578): message : Siehe vorherige Definition von "STATUS_NO_MEMORY"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(2289,1): warning C4005: "STATUS_ILLEGAL_INSTRUCTION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2579): message : Siehe vorherige Definition von "STATUS_ILLEGAL_INSTRUCTION"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(2370,1): warning C4005: "STATUS_NONCONTINUABLE_EXCEPTION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2580): message : Siehe vorherige Definition von "STATUS_NONCONTINUABLE_EXCEPTION"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(2379,1): warning C4005: "STATUS_INVALID_DISPOSITION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2581): message : Siehe vorherige Definition von "STATUS_INVALID_DISPOSITION"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(3312,1): warning C4005: "STATUS_ARRAY_BOUNDS_EXCEEDED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2582): message : Siehe vorherige Definition von "STATUS_ARRAY_BOUNDS_EXCEEDED"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(3322,1): warning C4005: "STATUS_FLOAT_DENORMAL_OPERAND": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2583): message : Siehe vorherige Definition von "STATUS_FLOAT_DENORMAL_OPERAND"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(3332,1): warning C4005: "STATUS_FLOAT_DIVIDE_BY_ZERO": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2584): message : Siehe vorherige Definition von "STATUS_FLOAT_DIVIDE_BY_ZERO"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(3342,1): warning C4005: "STATUS_FLOAT_INEXACT_RESULT": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2585): message : Siehe vorherige Definition von "STATUS_FLOAT_INEXACT_RESULT"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(3352,1): warning C4005: "STATUS_FLOAT_INVALID_OPERATION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2586): message : Siehe vorherige Definition von "STATUS_FLOAT_INVALID_OPERATION"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(3362,1): warning C4005: "STATUS_FLOAT_OVERFLOW": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2587): message : Siehe vorherige Definition von "STATUS_FLOAT_OVERFLOW"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(3372,1): warning C4005: "STATUS_FLOAT_STACK_CHECK": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2588): message : Siehe vorherige Definition von "STATUS_FLOAT_STACK_CHECK"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(3382,1): warning C4005: "STATUS_FLOAT_UNDERFLOW": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2589): message : Siehe vorherige Definition von "STATUS_FLOAT_UNDERFLOW"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(3392,1): warning C4005: "STATUS_INTEGER_DIVIDE_BY_ZERO": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2590): message : Siehe vorherige Definition von "STATUS_INTEGER_DIVIDE_BY_ZERO"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(3402,1): warning C4005: "STATUS_INTEGER_OVERFLOW": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2591): message : Siehe vorherige Definition von "STATUS_INTEGER_OVERFLOW"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(3412,1): warning C4005: "STATUS_PRIVILEGED_INSTRUCTION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2592): message : Siehe vorherige Definition von "STATUS_PRIVILEGED_INSTRUCTION"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(4358,1): warning C4005: "STATUS_STACK_OVERFLOW": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2593): message : Siehe vorherige Definition von "STATUS_STACK_OVERFLOW"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(4875,1): warning C4005: "STATUS_DLL_NOT_FOUND": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2594): message : Siehe vorherige Definition von "STATUS_DLL_NOT_FOUND"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(4904,1): warning C4005: "STATUS_ORDINAL_NOT_FOUND": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2595): message : Siehe vorherige Definition von "STATUS_ORDINAL_NOT_FOUND"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(4914,1): warning C4005: "STATUS_ENTRYPOINT_NOT_FOUND": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2596): message : Siehe vorherige Definition von "STATUS_ENTRYPOINT_NOT_FOUND"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(4924,1): warning C4005: "STATUS_CONTROL_C_EXIT": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2597): message : Siehe vorherige Definition von "STATUS_CONTROL_C_EXIT"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(5002,1): warning C4005: "STATUS_DLL_INIT_FAILED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2598): message : Siehe vorherige Definition von "STATUS_DLL_INIT_FAILED"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(5999,1): warning C4005: "STATUS_CONTROL_STACK_VIOLATION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2599): message : Siehe vorherige Definition von "STATUS_CONTROL_STACK_VIOLATION"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(7593,1): warning C4005: "STATUS_FLOAT_MULTIPLE_FAULTS": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2600): message : Siehe vorherige Definition von "STATUS_FLOAT_MULTIPLE_FAULTS"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(7603,1): warning C4005: "STATUS_FLOAT_MULTIPLE_TRAPS": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2601): message : Siehe vorherige Definition von "STATUS_FLOAT_MULTIPLE_TRAPS"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(7735,1): warning C4005: "STATUS_REG_NAT_CONSUMPTION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2602): message : Siehe vorherige Definition von "STATUS_REG_NAT_CONSUMPTION"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(8718,1): warning C4005: "STATUS_HEAP_CORRUPTION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2603): message : Siehe vorherige Definition von "STATUS_HEAP_CORRUPTION"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(8946,1): warning C4005: "STATUS_STACK_BUFFER_OVERRUN": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2604): message : Siehe vorherige Definition von "STATUS_STACK_BUFFER_OVERRUN"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(9073,1): warning C4005: "STATUS_INVALID_CRUNTIME_PARAMETER": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2605): message : Siehe vorherige Definition von "STATUS_INVALID_CRUNTIME_PARAMETER"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(9136,1): warning C4005: "STATUS_ASSERTION_FAILURE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2606): message : Siehe vorherige Definition von "STATUS_ASSERTION_FAILURE"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(10045,1): warning C4005: "STATUS_ENCLAVE_VIOLATION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2607): message : Siehe vorherige Definition von "STATUS_ENCLAVE_VIOLATION"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(10697,1): warning C4005: "STATUS_INTERRUPTED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2608): message : Siehe vorherige Definition von "STATUS_INTERRUPTED"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(10706,1): warning C4005: "STATUS_THREAD_NOT_RUNNING": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2609): message : Siehe vorherige Definition von "STATUS_THREAD_NOT_RUNNING"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(11018,1): warning C4005: "STATUS_ALREADY_REGISTERED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2610): message : Siehe vorherige Definition von "STATUS_ALREADY_REGISTERED"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(14865,1): warning C4005: "STATUS_SXS_EARLY_DEACTIVATION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2612): message : Siehe vorherige Definition von "STATUS_SXS_EARLY_DEACTIVATION"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(14874,1): warning C4005: "STATUS_SXS_INVALID_DEACTIVATION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2613): message : Siehe vorherige Definition von "STATUS_SXS_INVALID_DEACTIVATION"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\uxtheme.h(1600,57): warning C4459: Deklaration von "hwnd" blendet globale Deklaration aus
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\Cheat.h(21,6): message : Siehe Deklaration von "hwnd"
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\driver.h(25,33): warning C4129: "S": nicht erkannte Folge von Escapesequenz
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\driver.h(32,1): warning C4312: "Typumwandlung": Konvertierung von "DWORD" in größeren Typ "PVOID"
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\driver.h(108,47): warning C4458: Deklaration von "ProcessId" blendet Klassenmember aus
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\driver.h(21,7): message : Siehe Deklaration von "Driver::ProcessId"
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\driver.h(250,45): warning C4244: "Argument": Konvertierung von "SIZE_T" in "uint32_t", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\xor.hpp(211,22): warning C4244: "return": Konvertierung von "int" in "char", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\Keybind.h(7,1): warning C4005: "IM_ARRAYSIZE": Makro-Neudefinition
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\Imgui/imgui.h(87): message : Siehe vorherige Definition von "IM_ARRAYSIZE"
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\Keybind.h(55,22): warning C4100: "blank": Unreferenzierter formaler Parameter
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\Keybind.h(71,24): warning C4100: "blank": Unreferenzierter formaler Parameter
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\Keybind.h(87,25): warning C4100: "blank": Unreferenzierter formaler Parameter
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\Keybind.h(103,23): warning C4100: "blank": Unreferenzierter formaler Parameter
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\Keybind.h(119,26): warning C4100: "blank": Unreferenzierter formaler Parameter
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\Keybind.h(785,21): warning C4459: Deklaration von "aimkeys" blendet globale Deklaration aus
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\Cheat.h(37,20): message : Siehe Deklaration von "aimkeys"
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\Aimbot.cpp(13,24): warning C4244: "Initialisierung": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\Aimbot.cpp(14,24): warning C4244: "Initialisierung": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\Aimbot.cpp(39,8): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\Aimbot.cpp(40,8): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\Aimbot.cpp(41,44): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\Aimbot.cpp(41,33): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\WindowStreamProof.h(28,55): warning C4100: "code": Unreferenzierter formaler Parameter
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\WindowStreamProof.h(28,45): warning C4100: "line": Unreferenzierter formaler Parameter
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\WindowStreamProof.h(28,35): warning C4100: "file": Unreferenzierter formaler Parameter
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\DrawEsp.h(2,63): warning C4459: Deklaration von "color" blendet globale Deklaration aus
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\Cheat.h(496,3): message : Siehe Deklaration von "color"
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\DrawEsp.h(6,107): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\DrawEsp.h(7,83): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\DrawEsp.h(10,46): warning C4459: Deklaration von "h" blendet globale Deklaration aus
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\Print.hpp(13,8): message : Siehe Deklaration von "h"
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\DrawEsp.h(10,55): warning C4459: Deklaration von "color" blendet globale Deklaration aus
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\Cheat.h(496,3): message : Siehe Deklaration von "color"
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\DrawEsp.h(13,56): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\DrawEsp.h(13,49): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\DrawEsp.h(13,36): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\DrawEsp.h(13,33): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\DrawEsp.h(16,80): warning C4459: Deklaration von "h" blendet globale Deklaration aus
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\Print.hpp(13,8): message : Siehe Deklaration von "h"
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\DrawEsp.h(16,80): warning C4459: Deklaration von "color" blendet globale Deklaration aus
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\Cheat.h(496,3): message : Siehe Deklaration von "color"
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\DrawEsp.h(20,15): warning C4244: "Initialisierung": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\DrawEsp.h(21,15): warning C4244: "Initialisierung": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\DrawEsp.h(22,64): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\DrawEsp.h(22,41): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\DrawEsp.h(22,30): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\DrawEsp.h(22,27): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\DrawEsp.h(23,64): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\DrawEsp.h(23,53): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\DrawEsp.h(23,30): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\DrawEsp.h(23,27): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\DrawEsp.h(24,72): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\DrawEsp.h(24,61): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\DrawEsp.h(24,56): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\DrawEsp.h(24,43): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\DrawEsp.h(25,72): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\DrawEsp.h(25,47): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\DrawEsp.h(25,34): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\DrawEsp.h(25,29): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\DrawEsp.h(26,72): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\DrawEsp.h(26,59): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\DrawEsp.h(26,54): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\DrawEsp.h(26,27): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\DrawEsp.h(27,72): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\DrawEsp.h(27,59): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\DrawEsp.h(27,32): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\DrawEsp.h(27,27): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\DrawEsp.h(28,80): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\DrawEsp.h(28,67): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\DrawEsp.h(28,60): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\DrawEsp.h(28,45): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\DrawEsp.h(29,80): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\DrawEsp.h(29,67): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\DrawEsp.h(29,60): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\DrawEsp.h(29,29): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\DrawEsp.h(32,53): warning C4459: Deklaration von "color" blendet globale Deklaration aus
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\Cheat.h(496,3): message : Siehe Deklaration von "color"
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\DrawEsp.h(35,153): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\DrawEsp.h(35,135): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\DrawEsp.h(35,117): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\DrawEsp.h(35,99): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\DrawEsp.h(35,164): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\DrawEsp.h(35,47): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\DrawEsp.h(35,43): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\DrawEsp.h(35,31): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\DrawEsp.h(35,27): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\W2S_ Camera.h(14,4): warning C4201: Nicht dem Standard entsprechende Erweiterung: Struktur/Union ohne Namen
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\W2S_ Camera.h(24,19): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\W2S_ Camera.h(25,19): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\W2S_ Camera.h(26,19): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\W2S_ Camera.h(27,19): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\W2S_ Camera.h(28,19): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\W2S_ Camera.h(29,19): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\W2S_ Camera.h(31,22): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\W2S_ Camera.h(32,22): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\W2S_ Camera.h(33,19): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\W2S_ Camera.h(35,32): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\W2S_ Camera.h(36,32): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\W2S_ Camera.h(37,23): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\W2S_ Camera.h(39,19): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\W2S_ Camera.h(40,27): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\W2S_ Camera.h(41,22): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\W2S_ Camera.h(43,25): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\W2S_ Camera.h(44,25): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\W2S_ Camera.h(45,25): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\W2S_ Camera.h(63,33): warning C4244: "=": Konvertierung von "T" in "float", möglicher Datenverlust
+          with
+          [
+              T=double
+          ]
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\definitions.h(39,28): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\definitions.h(41,18): warning C4244: "Initialisierung": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\MainIncludes.h(217,15): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\MainIncludes.h(229,15): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\MainIncludes.h(233,15): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\MainIncludes.h(237,15): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\MainIncludes.h(241,15): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\MainIncludes.h(245,15): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\MainIncludes.h(249,15): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\MainIncludes.h(253,15): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\MainIncludes.h(257,15): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\MainIncludes.h(261,15): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\MainIncludes.h(265,15): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\MainIncludes.h(269,15): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\MainIncludes.h(273,15): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\MainIncludes.h(277,15): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\MainIncludes.h(281,15): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\MainIncludes.h(285,15): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\MainIncludes.h(289,15): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\MainIncludes.h(293,15): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\MainIncludes.h(297,15): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\MainIncludes.h(301,15): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\MainIncludes.h(305,15): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\MainIncludes.h(309,15): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\MainIncludes.h(313,15): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\MainIncludes.h(317,15): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\MainIncludes.h(321,15): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\MainIncludes.h(325,15): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\MainIncludes.h(329,15): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\MainIncludes.h(333,15): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\MainIncludes.h(337,15): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\MainIncludes.h(341,15): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\MainIncludes.h(345,15): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\MainIncludes.h(349,15): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\MainIncludes.h(353,15): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\MainIncludes.h(357,15): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\MainIncludes.h(361,15): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\MainIncludes.h(365,15): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\MainIncludes.h(369,15): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\MainIncludes.h(373,15): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\MainIncludes.h(377,15): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\MainIncludes.h(381,15): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\MainIncludes.h(385,15): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\MainIncludes.h(389,15): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\MainIncludes.h(393,15): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\MainIncludes.h(397,15): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\MainIncludes.h(401,15): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\MainIncludes.h(405,15): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\MainIncludes.h(409,15): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\MainIncludes.h(413,15): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\MainIncludes.h(417,15): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\MainIncludes.h(421,15): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\MainIncludes.h(425,15): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\MainIncludes.h(429,15): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\MainIncludes.h(484,8): warning C4189: "Style": Lokale Variable ist initialisiert aber nicht referenziert
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\MainIncludes.h(491,31): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\MainIncludes.h(491,6): warning C4189: "len": Lokale Variable ist initialisiert aber nicht referenziert
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\MainIncludes.h(512,53): warning C4459: Deklaration von "color" blendet globale Deklaration aus
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\Cheat.h(496,3): message : Siehe Deklaration von "color"
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\MainIncludes.h(523,9): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\MainIncludes.h(524,9): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\MainIncludes.h(528,87): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\MainIncludes.h(528,80): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\MainIncludes.h(529,87): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\MainIncludes.h(529,80): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\MainIncludes.h(530,87): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\MainIncludes.h(530,80): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\MainIncludes.h(531,87): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\MainIncludes.h(531,80): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\MainIncludes.h(533,184): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\MainIncludes.h(533,167): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\MainIncludes.h(533,149): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\MainIncludes.h(533,131): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\MainIncludes.h(533,80): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\MainIncludes.h(533,77): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+External.cpp(77,9): warning C4189: "handle": Lokale Variable ist initialisiert aber nicht referenziert
+External.cpp(81,26): warning C4100: "test": Unreferenzierter formaler Parameter
+External.cpp(97,36): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(97,21): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(103,11): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(104,11): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(105,11): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(118,115): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+External.cpp(118,91): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+External.cpp(118,68): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+External.cpp(118,56): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+External.cpp(119,115): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+External.cpp(119,91): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+External.cpp(119,68): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+External.cpp(119,56): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+External.cpp(120,103): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+External.cpp(120,87): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+External.cpp(120,68): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+External.cpp(120,56): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+External.cpp(121,103): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+External.cpp(121,87): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+External.cpp(121,68): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+External.cpp(121,56): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+External.cpp(127,21): warning C4459: Deklaration von "fovcircle" blendet globale Deklaration aus
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\definitions.h(17,6): message : Siehe Deklaration von "fovcircle"
+External.cpp(128,28): warning C4459: Deklaration von "fovcirclefilled" blendet globale Deklaration aus
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\definitions.h(20,6): message : Siehe Deklaration von "fovcirclefilled"
+External.cpp(131,132): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+External.cpp(131,68): warning C4244: "Argument": Konvertierung von "DWORD" in "float", möglicher Datenverlust
+External.cpp(131,53): warning C4244: "Argument": Konvertierung von "DWORD" in "float", möglicher Datenverlust
+External.cpp(132,22): warning C4459: Deklaration von "square_fov" blendet globale Deklaration aus
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\definitions.h(18,6): message : Siehe Deklaration von "square_fov"
+External.cpp(133,21): warning C4459: Deklaration von "fovcircle" blendet globale Deklaration aus
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\definitions.h(17,6): message : Siehe Deklaration von "fovcircle"
+External.cpp(134,28): warning C4459: Deklaration von "fovcirclefilled" blendet globale Deklaration aus
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\definitions.h(20,6): message : Siehe Deklaration von "fovcirclefilled"
+External.cpp(137,136): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+External.cpp(137,74): warning C4244: "Argument": Konvertierung von "DWORD" in "float", möglicher Datenverlust
+External.cpp(137,59): warning C4244: "Argument": Konvertierung von "DWORD" in "float", möglicher Datenverlust
+External.cpp(138,130): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+External.cpp(138,68): warning C4244: "Argument": Konvertierung von "DWORD" in "float", möglicher Datenverlust
+External.cpp(138,53): warning C4244: "Argument": Konvertierung von "DWORD" in "float", möglicher Datenverlust
+External.cpp(139,22): warning C4459: Deklaration von "square_fov" blendet globale Deklaration aus
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\definitions.h(18,6): message : Siehe Deklaration von "square_fov"
+External.cpp(140,21): warning C4459: Deklaration von "fovcircle" blendet globale Deklaration aus
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\definitions.h(17,6): message : Siehe Deklaration von "fovcircle"
+External.cpp(152,26): warning C4459: Deklaration von "closestPawn" blendet globale Deklaration aus
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\MainIncludes.h(43,11): message : Siehe Deklaration von "closestPawn"
+External.cpp(179,37): warning C4459: Deklaration von "CurrentActorMesh" blendet globale Deklaration aus
+External.cpp(108,11): message : Siehe Deklaration von "CurrentActorMesh"
+External.cpp(213,18): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(214,22): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(238,63): warning C4305: "Argument": Verkürzung von "double" in "T"
+          with
+          [
+              T=float
+          ]
+External.cpp(259,75): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+External.cpp(259,62): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+External.cpp(259,58): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+External.cpp(259,30): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+External.cpp(265,77): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+External.cpp(265,64): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+External.cpp(265,60): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+External.cpp(265,32): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+External.cpp(269,77): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+External.cpp(269,64): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+External.cpp(269,60): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+External.cpp(269,32): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+External.cpp(276,52): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(276,24): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(280,52): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(280,24): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(285,25): warning C4456: Deklaration von "vHeadBone" blendet vorherige lokale Deklaration aus
+External.cpp(207,11): message : Siehe Deklaration von "vHeadBone"
+External.cpp(301,28): warning C4456: Deklaration von "vHeadBoneOut" blendet vorherige lokale Deklaration aus
+External.cpp(209,11): message : Siehe Deklaration von "vHeadBoneOut"
+External.cpp(317,82): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+External.cpp(317,66): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+External.cpp(317,54): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+External.cpp(317,42): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+External.cpp(317,26): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+External.cpp(318,72): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+External.cpp(318,56): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+External.cpp(318,44): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+External.cpp(318,32): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+External.cpp(318,21): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+External.cpp(319,90): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+External.cpp(319,74): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+External.cpp(319,62): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+External.cpp(319,50): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+External.cpp(319,30): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+External.cpp(320,92): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+External.cpp(320,76): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+External.cpp(320,64): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+External.cpp(320,52): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+External.cpp(320,31): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+External.cpp(321,98): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+External.cpp(321,82): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+External.cpp(321,62): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+External.cpp(321,42): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+External.cpp(321,26): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+External.cpp(322,102): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+External.cpp(322,86): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+External.cpp(322,65): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+External.cpp(322,44): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+External.cpp(322,27): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+External.cpp(323,92): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+External.cpp(323,76): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+External.cpp(323,59): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+External.cpp(323,42): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+External.cpp(323,26): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+External.cpp(324,96): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+External.cpp(324,80): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+External.cpp(324,62): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+External.cpp(324,44): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+External.cpp(324,27): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+External.cpp(325,82): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+External.cpp(325,66): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+External.cpp(325,55): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+External.cpp(325,44): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+External.cpp(325,27): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+External.cpp(326,84): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+External.cpp(326,68): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+External.cpp(326,57): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+External.cpp(326,46): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+External.cpp(326,28): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+External.cpp(327,92): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+External.cpp(327,76): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+External.cpp(327,59): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+External.cpp(327,42): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+External.cpp(327,26): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+External.cpp(328,96): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+External.cpp(328,80): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+External.cpp(328,62): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+External.cpp(328,44): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+External.cpp(328,27): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+External.cpp(329,90): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+External.cpp(329,74): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+External.cpp(329,58): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+External.cpp(329,42): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+External.cpp(329,26): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+External.cpp(330,94): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+External.cpp(330,78): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+External.cpp(330,61): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+External.cpp(330,44): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+External.cpp(330,27): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+External.cpp(336,80): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+External.cpp(336,64): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+External.cpp(336,54): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+External.cpp(340,78): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+External.cpp(340,64): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+External.cpp(340,54): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+External.cpp(352,94): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(352,86): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(352,70): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(352,59): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(353,94): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(353,86): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(353,70): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(353,59): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(354,100): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(354,89): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(354,70): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(354,59): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(355,88): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(355,80): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(355,64): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(355,56): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(356,94): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(356,86): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(356,70): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(356,59): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(357,94): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(357,86): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(357,70): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(357,59): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(358,100): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(358,89): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(358,70): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(358,59): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(359,88): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(359,80): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(359,64): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(359,56): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(365,41): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+External.cpp(365,27): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+External.cpp(370,74): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(370,60): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(372,74): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(372,60): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(377,66): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(377,56): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(379,66): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(379,56): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(402,95): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(402,87): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(402,71): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(402,60): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(403,95): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(403,87): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(403,71): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(403,60): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(404,95): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(404,87): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(404,71): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(404,60): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(405,95): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(405,87): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(405,71): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(405,60): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(406,101): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(406,90): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(406,71): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(406,60): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(407,101): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(407,90): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(407,71): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(407,60): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(408,101): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(408,90): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(408,71): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(408,60): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(409,101): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(409,90): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(409,71): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(409,60): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(410,89): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(410,81): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(410,65): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(410,57): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(411,89): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(411,81): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(411,65): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(411,57): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(412,89): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(412,81): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(412,65): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(412,57): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(413,89): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(413,81): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(413,65): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(413,57): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(419,29): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+External.cpp(448,80): warning C4244: "Argument": Konvertierung von "DWORD_PTR" in "int", möglicher Datenverlust
+External.cpp(478,80): warning C4244: "Argument": Konvertierung von "DWORD_PTR" in "int", möglicher Datenverlust
+External.cpp(507,80): warning C4244: "Argument": Konvertierung von "DWORD_PTR" in "int", möglicher Datenverlust
+External.cpp(128,10): warning C4189: "fovcirclefilled": Lokale Variable ist initialisiert aber nicht referenziert
+External.cpp(127,9): warning C4189: "fovcircle": Lokale Variable ist initialisiert aber nicht referenziert
+External.cpp(134,10): warning C4189: "fovcirclefilled": Lokale Variable ist initialisiert aber nicht referenziert
+External.cpp(133,9): warning C4189: "fovcircle": Lokale Variable ist initialisiert aber nicht referenziert
+External.cpp(132,9): warning C4189: "square_fov": Lokale Variable ist initialisiert aber nicht referenziert
+External.cpp(140,9): warning C4189: "fovcircle": Lokale Variable ist initialisiert aber nicht referenziert
+External.cpp(139,9): warning C4189: "square_fov": Lokale Variable ist initialisiert aber nicht referenziert
+External.cpp(743,71): warning C4305: "Argument": Verkürzung von "double" in "float"
+External.cpp(747,72): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+External.cpp(747,64): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+External.cpp(647,15): warning C4189: "pBackgroundDrawList": Lokale Variable ist initialisiert aber nicht referenziert
+External.cpp(646,15): warning C4189: "pWindowDrawList": Lokale Variable ist initialisiert aber nicht referenziert
+External.cpp(644,15): warning C4101: "pDrawList": Unreferenzierte lokale Variable
+External.cpp(645,15): warning C4189: "CurrentWindowPos": Lokale Variable ist initialisiert aber nicht referenziert
+External.cpp(648,15): warning C4189: "pForegroundDrawList": Lokale Variable ist initialisiert aber nicht referenziert
+External.cpp(879,23): warning C4244: "=": Konvertierung von "LONG" in "float", möglicher Datenverlust
+External.cpp(880,23): warning C4244: "=": Konvertierung von "LONG" in "float", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\xor.hpp(224,33): warning C4244: "=": Konvertierung von "int" in "char", möglicher Datenverlust
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\xor.hpp(222): message : beim Kompilieren der Klasse Vorlage-Memberfunktion "char *CXorString<IndexList<0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32>>::decrypt(void)"
+External.cpp(38): message : Siehe Verweis auf die gerade kompilierte Instanziierung "char *CXorString<IndexList<0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32>>::decrypt(void)" der Funktions-Vorlage.
+External.cpp(37): message : Siehe Verweis auf die gerade kompilierte Klasse Vorlage-Instanziierung "CXorString<IndexList<0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32>>".
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\WindowStreamProof.h(61,1): warning C4459: Deklaration von "h" blendet globale Deklaration aus
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\Print.hpp(13,8): message : Siehe Deklaration von "h"
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\WindowStreamProof.h(61): message : beim Kompilieren der Klasse Vorlage-Memberfunktion "TScopedHandle<HANDLE,HANDLE_traits> &TScopedHandle<HANDLE,HANDLE_traits>::operator =(T)"
+          with
+          [
+              T=HANDLE
+          ]
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\WindowStreamProof.h(206): message : Siehe Verweis auf die gerade kompilierte Instanziierung "TScopedHandle<HANDLE,HANDLE_traits> &TScopedHandle<HANDLE,HANDLE_traits>::operator =(T)" der Funktions-Vorlage.
+          with
+          [
+              T=HANDLE
+          ]
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\WindowStreamProof.h(84): message : Siehe Verweis auf die gerade kompilierte Klasse Vorlage-Instanziierung "TScopedHandle<HANDLE,HANDLE_traits>".
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\WindowStreamProof.h(48,1): warning C4459: Deklaration von "h" blendet globale Deklaration aus
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\Print.hpp(13,8): message : Siehe Deklaration von "h"
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\WindowStreamProof.h(48): message : beim Kompilieren der Klasse Vorlage-Memberfunktion "TScopedHandle<HANDLE,HANDLE_traits>::TScopedHandle(T)"
+          with
+          [
+              T=HANDLE
+          ]
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\WindowStreamProof.h(94): message : Siehe Verweis auf die gerade kompilierte Instanziierung "TScopedHandle<HANDLE,HANDLE_traits>::TScopedHandle(T)" der Funktions-Vorlage.
+          with
+          [
+              T=HANDLE
+          ]
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\Print.hpp(165,20): warning C4505: "string_to_timet": Eine nicht referenzierte Funktion mit interner Verknüpfung wurde entfernt.
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\Print.hpp(172,16): warning C4505: "timet_to_tm": Eine nicht referenzierte Funktion mit interner Verknüpfung wurde entfernt.
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\input.hpp(82,21): warning C4505: "MouseController::GetAsyncKeyState": Eine nicht referenzierte Funktion mit interner Verknüpfung wurde entfernt.
+  Code wird generiert.
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\External.cpp(448): warning C4700: Die nicht initialisierte lokale Variable "LOL" wurde verwendet.
+C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\External.cpp(402): warning C4701: Die möglicherweise nicht initialisierte lokale Variable "ESPSkeleton" wurde verwendet.
+  171 of 1886 functions ( 9.1%) were compiled, the rest were copied from previous compilation.
+    153 functions were new in current compilation
+    17 functions had inline decision re-evaluated but remain unchanged
+  Codegenerierung ist abgeschlossen.
+  loltf.vcxproj -> C:\Users\leonk\Desktop\Fortnite-External-Updated-2023-main\build\External_LOLTF.exe
